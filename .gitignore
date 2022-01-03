@@ -140,3 +140,6 @@ dmypy.json
 # compiled executables
 *.out
 
+# saved tensorflow models
+/models
+
